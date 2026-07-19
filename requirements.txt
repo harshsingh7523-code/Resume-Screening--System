@@ -6,3 +6,4 @@ numpy
 nltk
 pypdf2
 docx
+exceptions
