@@ -4,6 +4,4 @@ scikit-learn
 pandas
 numpy
 nltk
-pypdf2
-docx
-exceptions
+PyPDF2
