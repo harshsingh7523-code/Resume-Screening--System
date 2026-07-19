@@ -5,7 +5,7 @@ import re
 from PyPDF2 import PdfReader
 import docx
 
-model = joblib.load("resume_model.pkl")
+model = joblib.load("model.pkl")
 tfidf = joblib.load("tfidf.pkl")
 le = joblib.load("label_encoder.pkl")
 
